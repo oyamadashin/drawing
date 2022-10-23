@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T01:28:15.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="15.9.6" etag="XlmeSFR0H6dDSvAv7KUv" type="github"><diagram id="5ubDVSoMuI3jIAfq1GL4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-23T01:31:21.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Ik0dkum0EeiR3V5-Ced5" version="15.9.6" type="github">
+  <diagram id="5ubDVSoMuI3jIAfq1GL4" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SvPra1D4zLhT9SenNoRt-1" value="リンゴ、バナナ、ミカン、桃、スイカ、メロン、ブドウ...." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SvPra1D4zLhT9SenNoRt-2" value="果物の集合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvPra1D4zLhT9SenNoRt-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SvPra1D4zLhT9SenNoRt-4" value="果物の集合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvPra1D4zLhT9SenNoRt-5" value="リンゴ、桃、メロン" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvPra1D4zLhT9SenNoRt-6" value="バナナ、ブドウ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
